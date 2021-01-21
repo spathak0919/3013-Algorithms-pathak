@@ -9,4 +9,4 @@
 ## Assignments
 | Folder | Assignment | Description | Due|
  | ------------|------------|------------|------------|
-| #1 | #ASSIGNMENTS | #ALL THE ASSIGNMENTS 
+| 1 | #SSIGNMENTS | ALL THE ASSIGNMENTS 
