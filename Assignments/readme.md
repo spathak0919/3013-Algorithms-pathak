@@ -1,7 +1,7 @@
 ## Assignments
 
-| Folder | Title | Description 
+|Number | Folder | Description 
 |-----|-----|-----|
 | 1 | A03 | BANNER
-| 2 | A04 | COMMENTING A CODE
+| 2 | A04 | Assignment to ensure proper commenting
 
