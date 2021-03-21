@@ -9,6 +9,7 @@ This project is about loading a singly linked list with dictionary words, then t
 
 | File             | Description                                        | Location    |
 | :--------------- | :------------------------------------------------- | :---------- |
+| `banner .txt  `  | Create Banner for the program                      | This Folder |
 | `dictionary.txt` | Words ... lots of words.                           | This Folder |
 | `main.cpp`       | Example driver that reads in words and uses getch. | This Folder |
 | `my_getch.cpp`   | Get character, without printing it .               | This folder |
