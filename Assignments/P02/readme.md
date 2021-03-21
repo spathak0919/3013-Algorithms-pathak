@@ -14,31 +14,5 @@ This project is about loading a singly linked list with dictionary words, then t
 | `my_getch.cpp`   | Get character, without printing it .               | This folder |
 | `timer.hpp`      | Timer helper class                                 | This Folder |
 | `termcolor.hpp`  | Class to color text                                | This Folder |
+| `animals.txt  `  | Lots of words as raw                               | This Folder |
 
-#### Output Example
-
-- User types the word `ste` 
-- Below the word the number of words found and the amount of time in seconds will be printed
-- Only print out the first 10 words of the matching words
-
-
-```
-ste
-
-62 words found in 0.013 seconds
-
-stead steadfast steadfastly steadfastness steadied steadier steadies steadiest steadily steadiness
-
-```
-
-
-- User types the word `steel` 
-
-```
-steel
-
-18 words found in 0.003 seconds
-
-steel steele steeled steelers steeles steelhead steelie steelier steelies steeliness 
-
-```
