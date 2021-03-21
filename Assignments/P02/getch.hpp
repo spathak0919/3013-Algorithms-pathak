@@ -1,3 +1,4 @@
+#pragma once
 #include <iostream>
 
 using namespace std;
@@ -5,12 +6,11 @@ using namespace std;
 #if defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__)
 #include <windows.h>
 
-char getch()
- {
+char getch() {
     DWORD mode, cc;
     HANDLE h = GetStdHandle(STD_INPUT_HANDLE);
     if (h == NULL) {
-        return 0; // console not found
+        return 0; 
     }
     GetConsoleMode(h, &mode);
     SetConsoleMode(h, mode & ~(ENABLE_LINE_INPUT | ENABLE_ECHO_INPUT));
