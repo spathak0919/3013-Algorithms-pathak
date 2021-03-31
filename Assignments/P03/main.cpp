@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 #include "JsonFacade.hpp"       
-#include "mygetch.hpp"
+#include "getch.hpp"
 #include "trio.hpp"
 #include "termcolor.hpp"
 #include <time.h>
