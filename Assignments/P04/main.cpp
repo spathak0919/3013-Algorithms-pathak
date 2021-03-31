@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-#include "mygetch.hpp"
+#include "getch.hpp"
 #include "termcolor.hpp"
 #include "trio.hpp"
 #include "timer.hpp"
